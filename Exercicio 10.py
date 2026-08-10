@@ -1,5 +1,3 @@
-#Exercicio 10
-
 primeiro = float(input('Digite o primeiro numero: '))
 maior = primeiro
 menor = primeiro
