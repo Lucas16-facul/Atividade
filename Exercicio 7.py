@@ -1,5 +1,3 @@
-#Exercicio 7
-
 contador = 10
 
 while contador > 0:
