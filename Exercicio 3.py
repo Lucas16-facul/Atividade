@@ -1,5 +1,3 @@
-#Exercicio 3
-
 numero = float(input('digite um numero: '))
 
 if numero > 0:
