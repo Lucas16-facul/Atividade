@@ -1,5 +1,3 @@
-#Exercicio 9
-
 def maior_numero(a, b):
     if a > b:
         return a
