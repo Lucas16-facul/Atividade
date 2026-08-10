@@ -1,5 +1,3 @@
-#Exercicio 6
-
 n = int(input('digite um numero inteiro: '))
 
 soma = 0
