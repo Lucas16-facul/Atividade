@@ -1,5 +1,3 @@
-#Exercicio 8
-
 soma = 0
 while True:
     numero = float(input('Digite um numero (ou 0 para sair): '))
